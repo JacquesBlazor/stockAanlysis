@@ -1,5 +1,5 @@
 # author: alvin.constantine@outlook.com, datetime: 2021/4/17 12:35pm, License: GNU 3.0 License
-# amended: 2021/8/25 15:22pm
+# amended: 2021/10/17 20:00pm
 from dateutil.relativedelta import relativedelta
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
